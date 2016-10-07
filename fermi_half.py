@@ -2,7 +2,8 @@
 """
 Created on Wed Sep 14 06:22:46 2016
 
-@author: sarkaranwar
+@author: Sarkar Anwar
+@e-mail: sarkar.rm.anwar@gmail.com
 """
 import numpy as np
 

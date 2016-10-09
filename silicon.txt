@@ -1,0 +1,13 @@
+Dielectric Constant(F/cm)	11.7
+Electronic affinity (eV)	4.05
+Energy gap low energy valley (eV)	1.17
+Energy gap medium energy valley (eV)	100
+Energy gap high energy valley (eV)	100
+alpha_T(eV*K^-1)	4.73E-04
+beta_T(K)	636
+Electron effective mass low energy valley	1.08
+Electron effective mass medium energy valley	0
+Electron effective mass high energy valley	0
+Hole effective mass	0.81
+Thermal velocity for electron (cm/sec)	2.40E+07
+Thermal velocity for hole (cm/sec)	1.65E+07
